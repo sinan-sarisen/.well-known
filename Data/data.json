@@ -1,4 +1,4 @@
-[
+{"status":"true","message":"Data fetched successfully!","data":[
    {
       "artist":"Barış MANÇO",
       "songs":[
@@ -91,4 +91,4 @@
          }
       ]
    }
-]
+]}
